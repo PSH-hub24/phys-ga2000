@@ -42,5 +42,3 @@ for i in range(whiteSize):
 plt.scatter(xArrayBlack, yArrayBlack, color='black')
 plt.scatter(xArrayWhite, yArrayWhite, color='White')
 plt.show()
-
-
